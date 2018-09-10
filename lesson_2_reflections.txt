@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	We create a file named .git, which gives us the posibility of make commits and keep track of our modification in our files.
+
+Me queda cambiar algo
