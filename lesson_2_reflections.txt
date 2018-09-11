@@ -5,3 +5,8 @@ What happens when you initialize a repository? Why do you need to do it?
 How can you use the staging area to make sure you have one commit per logical change?
 	
 	You can compare the files in the SA and the last commit using the git diff command and the parameter --staged. We cold see the logical changes made from the last commit and make sure this is what we want to change. In this case, we make the commit to save those changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	This could be usefull when we want to aplly some extra functionality or try some new aproach to the problem, but we also want to keep our orginal idea or axis for solving this particlar problem. 
+	Branches make possible to try new code and test some features, without takking the main focus on the aplication.
