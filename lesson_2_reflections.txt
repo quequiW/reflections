@@ -15,3 +15,7 @@ How do the diagrams help you visualize the branch structure?
 
 	With this tool, we could see with clarity wich are the master branch of our proyect, see the alternative branches and wich commits were implicated in those.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result of merging two branches is one branch with the combination of the commits of both branches, order by date and time that were commited. We represent like the way we do beacause its a combination of diffetens commits, take a different direction or approuch. 
+
