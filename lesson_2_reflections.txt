@@ -2,4 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	We create a file named .git, which gives us the posibility of make commits and keep track of our modification in our files.
 
-Me queda cambiar algo
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	You can compare the files in the SA and the last commit using the git diff command and the parameter --staged. We cold see the logical changes made from the last commit and make sure this is what we want to change. In this case, we make the commit to save those changes.
