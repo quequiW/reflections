@@ -1,1 +1,6 @@
 When would you want to ...
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Because we could make changes for experimenting or trying new thigs, that may be don't want to add to our branch untill we test it out.
+
